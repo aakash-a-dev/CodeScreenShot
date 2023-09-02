@@ -36,6 +36,7 @@ export default function CodeEditor(){
                 textareaClassName="focus:outline-none"
                 onClick={(e) => e.target.select()}
                 />
+                </div>
         </div>
     )
 }
